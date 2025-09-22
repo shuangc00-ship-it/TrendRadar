@@ -84,3 +84,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "bilibili"
+    name: "哔哩哔哩"
+  - id: "kuaishou"
+    name: "快手"
